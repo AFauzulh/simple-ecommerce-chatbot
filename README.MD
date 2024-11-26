@@ -1,12 +1,12 @@
 # Set up environment
 
-**Pre-requisites :** \
+**Pre-requisites :**
 
-1.  Create virtual environment (I'm using [venv](https://docs.python.org/3/library/venv.html)) \
-2.  Run `pip install -r requirements.txt` \
+1.  Create virtual environment (I'm using [venv](https://docs.python.org/3/library/venv.html))
+2.  Run `pip install -r requirements.txt`
 3.  Download and install [Ollama](https://ollama.com/)
 
-**Ollama**\
+**Ollama**
 After installing, open Ollama and run command `ollama run llama3.2` on your terminal to download the pretrained LLM model. In this project, I'm using `llama3.2-3B` because it's lightweight and has good performance.
 
 ## Deployment
